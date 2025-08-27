@@ -1,5 +1,5 @@
 # Excel-Sales-Analytics
-# 📊 Excel Sales Analytics Project
+# 📊 Sales & Finance Analytics Reports
 
 ## 🔹 Overview
 This project focuses on building **Sales & Finance Analytics Reports** in Microsoft Excel.  
